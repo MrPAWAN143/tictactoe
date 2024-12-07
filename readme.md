@@ -52,4 +52,4 @@ Copy code
 ![Player Move](screenshort2.png)
 
 ### Winner Announced
-![Winner Announced](screenshort3.pngpng)
+![Winner Announced](screenshort3.png)
