@@ -23,13 +23,6 @@ A fun and interactive **Tic Tac Toe** game built with **HTML**, **CSS**, and **J
 ### Prerequisites
 To run this project, you need a modern web browser.
 
-### Installation
-1. Clone this repository or download the zip file:
-   ```bash
-
-
-
-
 To add screenshots of your Tic Tac Toe game to the README.md, follow these steps:
 
 1. Prepare Your Screenshots
