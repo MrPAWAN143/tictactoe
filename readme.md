@@ -28,7 +28,7 @@ To run this project, you need a modern web browser.
 ### Installation
 1. Clone this repository or download the zip file:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/MrPAWAN143/tic-tac-toe.git
 
 
 
