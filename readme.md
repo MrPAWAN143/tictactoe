@@ -10,9 +10,7 @@ A fun and interactive **Tic Tac Toe** game built with **HTML**, **CSS**, and **J
 - **Responsive Design**: Optimized for various screen sizes and devices.
 - **Hover Effects**: Engaging hover effects for better user interaction.
 
-## 🖼️ Screenshots
 
-*(Add screenshots of your game interface here if available)*
 
 ## 🛠️ Technologies Used
 
@@ -28,7 +26,7 @@ To run this project, you need a modern web browser.
 ### Installation
 1. Clone this repository or download the zip file:
    ```bash
-   git clone https://github.com/MrPAWAN143/tic-tac-toe.git
+
 
 
 
@@ -41,8 +39,6 @@ Name the screenshots descriptively (e.g., game-start.png, game-win.png, etc.).
 2. Update the README.md
 Embed the screenshots using Markdown syntax like this:
 
-markdown
-Copy code
 ## 🖼️ Screenshots
 
 ### Game Start
@@ -53,3 +49,4 @@ Copy code
 
 ### Winner Announced
 ![Winner Announced](screenshort3.png)
+
