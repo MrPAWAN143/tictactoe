@@ -42,7 +42,7 @@ const enablebtn = () => {
     for (let btn of btns) {
         btn.disabled = false
         btn.innerText = "";
-        Winner.innerText = 'Winner Announcement Here'
+        Winner.innerText = 'Winner Announcement'
         newgamebtn.style.backgroundColor = 'rgb(49, 103, 49)'
         newgamebtn.style.color = 'rgb(164, 165, 162)'
 
@@ -84,19 +84,11 @@ btns.forEach((btn) => {
         resetgame.style.backgroundColor = 'red'
         resetgame.style.color = 'white'
 
-        console.log('helos');
-
-
         checkwinner()
 
 
 
     })
-
-        // btn.addEventListener('change',()=>{
-           
-            
-        // })
 
 
 })
